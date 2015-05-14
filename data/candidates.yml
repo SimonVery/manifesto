@@ -18,6 +18,14 @@
   facebook_title: Something New for SW Surrey
   website: http://swsurrey.somethingnew.org.uk/
   website_title: Something New for SW Surrey
+-
+  election: london-major
+  election_date: 2016-05-05
+  name: Lindsey Garrett
+  constituency: London
+  twitter: lindsey4london
+  website: http://somethingnew.org.uk/london
+  website_title: Something New for London
 
 # To add yourself, copy and paste the whole section above starting with the dash,
 # and add another copy.
